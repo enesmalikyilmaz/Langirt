@@ -35,6 +35,9 @@ Sonuç olarak, sistemi biraz veri almak veya küçük bir demo için kullanmak i
 - Hızlı ve eğlenceli bir oyun deneyimi
 - Favori takımınızı seçin ve rakibi yenmeye çalışın
 
+## Oyun Tanıtımı
+
+https://www.youtube.com/watch?v=_9K4hgvgucU
 
 
 
