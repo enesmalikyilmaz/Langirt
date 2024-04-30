@@ -16,9 +16,10 @@ Sonuç olarak, sistemi biraz veri almak veya küçük bir demo için kullanmak i
 
 ## Çalışan Örnekler
 
-![Örnek Görüntü](langirt1.png)
-![Örnek Görüntü](langirt2.png)
-![Örnek Görüntü](langirt3.png)
+![langirt1](https://github.com/enesmalikyilmaz/Langirt/assets/121015121/7ccd9c18-9f12-4463-96db-715682fff08a)
+![langirt2](https://github.com/enesmalikyilmaz/Langirt/assets/121015121/5185e0e6-da19-4ba8-90fb-3ec3c1f5e134)
+![langirt3](https://github.com/enesmalikyilmaz/Langirt/assets/121015121/de4f527a-7649-4202-a980-72270d9785ca)
+
 
 ## Nasıl Oynanır?
 
