@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Langırt Oyunu JavaScript</title>
+
+    <style>
+
+        body{
+
+            background-color: rgb(102, 99, 99);
+
+        }
+
+        #langırt{
+
+            border: 2px solid #FFF;
+
+            position: absolute;
+
+            margin :auto;
+
+            top:0;
+
+            right:0;
+
+            left:0;
+
+            bottom: 0;
+
+        }
+        h2{
+
+            margin-top: 0;
+
+        }
+        p{
+
+            font-size: 130%;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <!--Canvas'ı oluşturdum-->
+   <canvas id="langırt" width="900" height="600"></canvas>
+    <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <font face="Courier" color="blue"><h1 align = "center"><strong>5 BÜYÜKLER LANGIRT TURNUVASI</strong><br><br></h1></font>
+
+            <td width="300">
+                <font face="Courier" size="+1">
+                    <h2 align="center"><strong>5 BÜYÜKLER LANGIRT TURNUVASI<br><br></h2>
+                    Bu turnuvada 5 büyükler içerisinden 2 farklı takım seçilir. Ve seçilen takımlar birbirleriyle karşılaşır.
+                    Sol taraftakii takım 'w''s' tuşlarıyla haraket edecek. 'w' tuşu yukarı 's' tuşu aşağı hareketi sağlar. <br> <br>
+                    Sağ taraftaki takım da 'pageUp'(Yukarı Yön tuşu) ve 'pageDown'(Aşağı Yön Tuşu) ile hareket edecek. <br><br></strong>
+                </font>
+            </td>
+            
+            <td width ="930"></td>
+
+            <td  width ="300" ><h2 align = "center">Oyun Kuralları:</h2>
+                <p>Oyun süresi olan 120 saniye herhangi bir oyuncunun hareketi ile başlar. 
+                    Oyuncular hareket tuşlarına bastıklarında takımlarındaki tüm oyuncular aynı anda hareket eder.
+                Maç sonunda daha çok gol atan maçı kazanır.</p>
+            </td>
+        </tr>
+
+
+
+    </table>
+   <script src="langırt.js" charset="utf-8"></script>
+
+</body>
+
+</html>
