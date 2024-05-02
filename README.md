@@ -40,6 +40,12 @@ Sonuç olarak, sistemi biraz veri almak veya küçük bir demo için kullanmak i
 https://www.youtube.com/watch?v=_9K4hgvgucU
 
 
+## Oyunun Linki
+
+Oyuna Buradan Bakabilirsiniz
+
+https://enesmalikyilmaz.github.io/langirt.github.io/
+
 
 
 **Not:** Bu projenin geliştirilme aşamasında olduğunu unutmayın. Herhangi bir hata veya öneriniz varsa lütfen bize bildirin!
